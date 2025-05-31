@@ -18,3 +18,4 @@ jobs:
             git pull origin main
             cd back && npm install && pm2 restart backend-todo
             cd ../to-do && npm install && npm run build
+# df,sd,fds,fdsfds,
